@@ -1,0 +1,7 @@
+[Volume Id]
+DistributionGUID={9124711E-DD76-4CE0-A16E-E36512FE8887}
+DistPackageGUID={238B20A2-A6A7-4514-90A9-03F89B25340A}
+DistributionVersion=1.0.9
+DistributionLanguage=9
+Volume=1
+ExePath=setup.exe
